@@ -3,6 +3,4 @@
 Welcome in Haproxyweb!
 
 
-## Introduction
 
-content
